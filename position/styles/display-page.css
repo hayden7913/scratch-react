@@ -1,0 +1,61 @@
+
+div {
+	font-size: 0px;
+	margin: auto;
+}
+
+.parent {
+	margin-top: 90px;
+	
+}
+
+.top {
+	height: 200px;
+	width: 800px;
+	margin: auto;
+}
+
+.bottom {
+	height: 300px;
+	width: 800px;
+	margin: auto;
+	
+}
+
+.upper {
+	border: 1px solid black;
+	display: inline-block;
+	height: 100%;
+	width: 50%;
+	font-size: 0;
+}
+
+.lower {
+	border: 1px solid black;
+	display: inline-block;
+	height: 100%;
+	width: 33.33%;
+	font-size: 0;
+}
+
+.blue{
+	
+	background-color: blue;
+}
+
+.green {	
+	background-color: green;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black{
+	background-color: black;
+}
+
+.yellow {
+	background-color: gold;
+}
+
